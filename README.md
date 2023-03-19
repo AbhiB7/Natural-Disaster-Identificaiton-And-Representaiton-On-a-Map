@@ -1,2 +1,2 @@
-# BE-Project
-Recommendation system 
+# Natural Disaster Identificaiton using BERT model
+
